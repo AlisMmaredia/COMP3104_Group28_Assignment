@@ -8,3 +8,6 @@ Help to understand DevOps. Will have great hands on using tools and automated te
 
 Course evaluation
 Total it will consist of 100% form with Lab Exercise and Assignment 2 will be of 16% each. There will be lecture quizzes ever week  consist of 8% total. Assignment 1 will be of 10%. There are 2 exam Mid-Term for 20% and final for 30%.
+
+Course Outline 
+Course will be for 15 weeks long and it will have 1 week of Intersession during week 8. After intersession week we will have mid term and final in the week 15 which is our last week.
