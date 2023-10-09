@@ -1,0 +1,31 @@
+COMP 3104 - DevOps
+
+Course Description
+This course will help to increase the productivity to use DevOps in their daily life.
+
+Learning Objectives
+Help to understand DevOps. Will have great hands on using tools and automated testing and monitoring.
+
+Course evaluation
+Total it will consist of 100% form with Lab Exercise and Assignment 2 will be of 16% each. There will be lecture quizzes ever week  consist of 8% total. Assignment 1 will be of 10%. There are 2 exam Mid-Term for 20% and final for 30%.
+
+Course Outline 
+Course will be for 15 weeks long and it will have 1 week of Intersession during week 8. After intersession week we will have mid term and final in the week 15 which is our last week.
+
+Course Requirement
+This course will require to download few softwares like GitHub, Travis and Docker.
+
+Test Policy
+Test should be done on the same say on the day of test. If we are not able to give test try to inform prof 3 days prior the test day.
+
+Course Delivery Mode
+Courses will be hybrid. Where lecture will be conducted online and lab will be done in person. All the Assignments will be submitted online on D2l website.
+
+Assignment Policy
+All assignments should be submitted on due dates and if submitting late will have penalty of 20%. 
+
+Attendance
+Attendance is required and to gain necessary knowledge.
+
+Medical emergency
+If there is and medical emergency and student is not able to attend they have to email prof and let them and and get a doctor report as a prof.
