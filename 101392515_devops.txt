@@ -6,3 +6,5 @@ This course will help to increase the productivity to use DevOps in their daily 
 Learning Objectives
 Help to understand DevOps. Will have great hands on using tools and automated testing and monitoring.
 
+Course evaluation
+Total it will consist of 100% form with Lab Exercise and Assignment 2 will be of 16% each. There will be lecture quizzes ever week  consist of 8% total. Assignment 1 will be of 10%. There are 2 exam Mid-Term for 20% and final for 30%.
