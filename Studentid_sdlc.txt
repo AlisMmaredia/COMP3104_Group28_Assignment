@@ -10,5 +10,8 @@ Description:  Continuous testing and quality assurance are the focus of learning
 3. Efficient Resource Utilization
 Description: DevOps practices optimize resource utilization by automating resource provisioning and scaling. This leads to cost savings as resources are allocated based on actual demand, eliminating unnecessary expenditures on idle resources.
 
+4. Greater Collaboration
+Description: DevOps encourages cross-functional collaboration. Developers, operations, and other stakeholders work together throughout the development process. This collaboration fosters a deeper understanding of each team's requirements and objectives, leading to improved cooperation and shared goals.
+
 
 
