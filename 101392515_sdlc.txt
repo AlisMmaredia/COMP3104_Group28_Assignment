@@ -1,0 +1,2 @@
+Definition: SDLC is a structured approach to software development that defines stages and obligations to manual the development manner from inception to deployment and upkeep.
+
