@@ -14,3 +14,6 @@ Course will be for 15 weeks long and it will have 1 week of Intersession during 
 
 Course Requirement
 This course will require to download few softwares like GitHub, Travis and Docker.
+
+Test Policy
+Test should be done on the same say on the day of test. If we are not able to give test try to inform prof 3 days prior the test day.
