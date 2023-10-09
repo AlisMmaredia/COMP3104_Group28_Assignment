@@ -2,3 +2,4 @@ COMP3104 ASSIGNMENT GROUP-28
 
 Alis Maredia - 101381860
 Zain Karedia - 101392515
+Uzma Khan    - 101392145
