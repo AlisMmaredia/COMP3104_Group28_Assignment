@@ -1,0 +1,49 @@
+Last login: Sun Oct  8 21:47:44 on ttys000
+zainkaredia@Zains-Air ~ % cd Documents    
+zainkaredia@Zains-Air Documents % cd College 
+zainkaredia@Zains-Air College % cd SEM5 
+zainkaredia@Zains-Air SEM5 % ls
+Adv					COMP_3104-DEVOPS
+COMP_3059-CAPSTONE_PROJECT_I		COMP_3122-APPLIED_DATA_SCIENCE
+COMP_3074-MOBILE_APPL_DEVELOPMENT_I	COMP_3123-FULL_STACK_DEVELOPMENT_I
+COMP_3095-WEB_APPL_DEVELOP_USING_JAVA	DevOps
+zainkaredia@Zains-Air SEM5 % cd DevOps                                
+zainkaredia@Zains-Air DevOps % cd Assignment1 
+zainkaredia@Zains-Air Assignment1 % git clone https://github.com/AlisMmaredia/COMP3104_Group28_Assignment.git
+Cloning into 'COMP3104_Group28_Assignment'...
+remote: Enumerating objects: 59, done.
+remote: Counting objects: 100% (59/59), done.
+remote: Compressing objects: 100% (41/41), done.
+remote: Total 59 (delta 29), reused 37 (delta 13), pack-reused 0
+Receiving objects: 100% (59/59), 9.17 KiB | 2.29 MiB/s, done.
+zainkaredia@Zains-Air COMP3104_Group28_Assignment % git checkout -b 101392515-Zain
+Switched to a new branch '101392515-Zain'
+zainkaredia@Zains-Air COMP3104_Group28_Assignment % nano 101392515_devops.txt
+
+
+
+  UW PICO 5.09                      File: 101392515_devops.txt                      Modified  
+
+COMP 3104 - DevOps
+
+Course Description
+This course will help to increase the productivity to use DevOps in their daily life.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File Name to write : 101392515_devops.txt                                                     
+^G Get Help    ^T  To Files                                                               
+^C Cancel      TAB Complete                                                               
