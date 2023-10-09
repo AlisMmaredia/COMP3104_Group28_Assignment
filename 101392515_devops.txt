@@ -17,3 +17,6 @@ This course will require to download few softwares like GitHub, Travis and Docke
 
 Test Policy
 Test should be done on the same say on the day of test. If we are not able to give test try to inform prof 3 days prior the test day.
+
+Course Delivery Mode
+Courses will be hybrid. Where lecture will be conducted online and lab will be done in person. All the Assignments will be submitted online on D2l website.
