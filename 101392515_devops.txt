@@ -20,3 +20,6 @@ Test should be done on the same say on the day of test. If we are not able to gi
 
 Course Delivery Mode
 Courses will be hybrid. Where lecture will be conducted online and lab will be done in person. All the Assignments will be submitted online on D2l website.
+
+Assignment Policy
+All assignments should be submitted on due dates and if submitting late will have penalty of 20%. 
