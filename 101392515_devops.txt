@@ -2,3 +2,7 @@ COMP 3104 - DevOps
 
 Course Description
 This course will help to increase the productivity to use DevOps in their daily life.
+
+Learning Objectives
+Help to understand DevOps. Will have great hands on using tools and automated testing and monitoring.
+
